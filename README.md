@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-In this project, we developed a DC-DC buck converter to step down a 10V input to a stable 7.5V unregulated output. This converter was designed and implemented using the TL494 module for pulse width modulation (PWM) control of the MOSFET, ensuring efficient voltage regulation. The project was completed as a group effort under the Electrical Machines and Power Electronics Lab course.
+In this project, we developed a DC-DC buck converter to step down a 10V input to a stable 7.5V unregulated output. This converter was designed and implemented using the TL494 module for pulse width modulation (PWM) control of the MOSFET, ensuring efficient voltage regulation. The project was completed as a group effort under the Electrical Machines and Power Electronics Lab course.There is no code here we implemented it on hardware so I attached some pictures.
 
 ## Specifications
 
